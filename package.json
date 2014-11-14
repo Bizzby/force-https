@@ -1,0 +1,17 @@
+{
+  "name": "force-https",
+  "version": "1.0.0",
+  "description": "express module for forcing https connections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "https",
+    "tls",
+    "ssl",
+    "express"
+  ],
+  "author": "sandfox",
+  "license": "BSD"
+}
